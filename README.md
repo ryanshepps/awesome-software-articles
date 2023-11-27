@@ -7,6 +7,7 @@ A collection of software related articles that I think are awesome
 #### Startups
 
 - [Hard Startups and Being More Ambitious](https://blog.samaltman.com/hard-startups)
+- [Unexpected Upsides of Building a Hard Startup](https://www.celinehh.com/biotech-unexpected-benefits)
 
 ### Code
 
