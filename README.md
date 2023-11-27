@@ -2,6 +2,12 @@
 
 A collection of software related articles that I think are awesome
 
+### Business
+
+#### Startups
+
+- [Hard Startups and Being More Ambitious](https://blog.samaltman.com/hard-startups)
+
 ### Code
 
 #### Clean Code
