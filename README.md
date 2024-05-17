@@ -20,3 +20,8 @@ A collection of software related articles that I think are awesome
 #### Architecture
 
 - [Best Practices for Building in the Cloud (From a Business Standpoint)](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
+#### Database
+
+- [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
