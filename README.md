@@ -11,11 +11,15 @@ A collection of software related articles that I think are awesome
 
 ### Code
 
+- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024)
+
 #### Clean Code
 
-- [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html?utm_source=tldrnewsletter)
+- [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 
 ### System Design
+
+- [My Principles for Building Software](https://kevinmahoney.co.uk/articles/my-principles-for-building-software)
 
 #### Architecture
 
@@ -25,3 +29,7 @@ A collection of software related articles that I think are awesome
 
 - [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+
+### Tools
+
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
