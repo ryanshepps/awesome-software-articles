@@ -14,6 +14,7 @@ A collection of software related articles that I think are awesome
 #### Clean Code
 
 - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+- [Clean Code and the Art of Exception Handling](https://www.toptal.com/abap/clean-code-and-the-art-of-exception-handling)
 
 #### Miscellaneous
 
