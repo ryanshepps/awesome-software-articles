@@ -11,12 +11,14 @@ A collection of software related articles that I think are awesome
 
 ### Code
 
-- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024)
-- [A Bunch of Programming Advice I'd Give To Myself 15 Yars Ago](https://mbuffett.com/posts/programming-advice-younger-self)
-
 #### Clean Code
 
 - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+
+#### Miscellaneous
+
+- [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024)
+- [A Bunch of Programming Advice I'd Give To Myself 15 Yars Ago](https://mbuffett.com/posts/programming-advice-younger-self)
 
 ### System Design
 
