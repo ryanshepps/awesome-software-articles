@@ -28,6 +28,7 @@ A collection of software related articles that I think are awesome
 #### Architecture
 
 - [Best Practices for Building in the Cloud (From a Business Standpoint)](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- [Logging v. Instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 
 #### Database
 
