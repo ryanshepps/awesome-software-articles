@@ -9,6 +9,12 @@ A collection of software related articles that I think are awesome
 - [Hard Startups and Being More Ambitious](https://blog.samaltman.com/hard-startups)
 - [Unexpected Upsides of Building a Hard Startup](https://www.celinehh.com/biotech-unexpected-benefits)
 
+### Career
+
+#### Resumes
+
+- [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.com/2007_09_01_archive.html)
+
 ### Code
 
 #### Clean Code
