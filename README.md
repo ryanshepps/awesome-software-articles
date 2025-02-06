@@ -9,6 +9,10 @@ A collection of software related articles that I think are awesome
 - [Hard Startups and Being More Ambitious](https://blog.samaltman.com/hard-startups)
 - [Unexpected Upsides of Building a Hard Startup](https://www.celinehh.com/biotech-unexpected-benefits)
 
+#### Hiring
+
+- [How To Hire A Simplifier](https://hellooperator.substack.com/p/how-to-hire-a-simplifier?utm_source=tldrfounders)
+
 ### Career
 
 #### Resumes
